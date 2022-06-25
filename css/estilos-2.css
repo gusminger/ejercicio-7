@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+
+}
+
+
+body {
+        background: radial-gradient(#f69d3c, #3f87a6);
+}
+
+header {
+
+}
+
+.cabeza {
+    /* clase para el header*/
+}
+
+main {
+
+}
+
+article {
+
+}
+
+.claseArticulo {
+    /* se refiere a cada uno de los productos */
+}
+
+.tituloArticulo {
+
+}
+
+img {
+
+}
+
+.boton {
+    border-radius: 4px;
+    background-color: #2c8f20;
+    color: white;
+    display: inline;
+    align-items: center;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: 10px;
+}
